@@ -1,0 +1,5 @@
+UI gồm 2 nút Confirm và Reset
+
+list dưới gồm ds các ô text có thể edit và expand nếu xuống dòng
+khi click confirm thì state trong redux phải cập nhật giá trị lúc đó, và nút confirm sẽ disabled, phải sửa 1 field để re enabled
+nếu click reset phải reset vè value sau khi click confirm.
